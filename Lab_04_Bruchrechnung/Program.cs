@@ -38,7 +38,15 @@ namespace Lab_04_Bruchrechnung
 
         public override string ToString()
         {
-            return zaehler + "/" + nenner;
+            if ( nenner == 1)
+            {
+                return zaehler.ToString();
+            }
+            else
+            {
+                return zaehler + "/" + nenner;
+            }
+               
         }
 
         public static Bruch Parse(string str) 
@@ -70,7 +78,9 @@ namespace Lab_04_Bruchrechnung
         { 
             int n =this.nenner * bruch.getNenner();
             int z = this.zaehler * bruch.getNenner() + bruch.getZaehler() * this.nenner;
-
+            this.zaehler = z;
+            this.nenner = n;
+            kuerzen();
         }
     }
     internal class Program
@@ -79,11 +89,14 @@ namespace Lab_04_Bruchrechnung
         {
             Console.WriteLine("Geben Sie einen Bruch im Format Zähler/Nenner ein:");
             string line = Console.ReadLine();
-
             Bruch bruch = Bruch.Parse(line);
-            bruch.kuerzen();
-
-            Console.WriteLine(bruch);
+            Console.WriteLine("+");
+            string line1 = Console.ReadLine();
+            Bruch bruch1 = Bruch.Parse(line1);
+            bruch.add(bruch1);
+            Console.WriteLine("--------------");
+            Console.WriteLine("Ergebnis: ");
+            Console.Write(bruch);
 
             Console.ReadKey();
 
