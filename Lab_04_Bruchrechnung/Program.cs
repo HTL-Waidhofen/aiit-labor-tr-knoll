@@ -63,6 +63,14 @@ namespace Lab_04_Bruchrechnung
             int ggt = a;
             zaehler /= ggt;
             nenner /= ggt;
+
+        }
+
+        public void add(Bruch bruch) 
+        { 
+            int n =this.nenner * bruch.getNenner();
+            int z = this.zaehler * bruch.getNenner() + bruch.getZaehler() * this.nenner;
+
         }
     }
     internal class Program
