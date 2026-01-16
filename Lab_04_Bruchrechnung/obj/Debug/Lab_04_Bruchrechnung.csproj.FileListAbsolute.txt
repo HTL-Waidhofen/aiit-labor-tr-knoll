@@ -1,0 +1,7 @@
+C:\projekt_github\aiit-labor-tr-knoll\Lab_04_Bruchrechnung\bin\Debug\Lab_04_Bruchrechnung.exe.config
+C:\projekt_github\aiit-labor-tr-knoll\Lab_04_Bruchrechnung\bin\Debug\Lab_04_Bruchrechnung.exe
+C:\projekt_github\aiit-labor-tr-knoll\Lab_04_Bruchrechnung\bin\Debug\Lab_04_Bruchrechnung.pdb
+C:\projekt_github\aiit-labor-tr-knoll\Lab_04_Bruchrechnung\obj\Debug\Lab_04_Bruchrechnung.csproj.AssemblyReference.cache
+C:\projekt_github\aiit-labor-tr-knoll\Lab_04_Bruchrechnung\obj\Debug\Lab_04_Bruchrechnung.csproj.CoreCompileInputs.cache
+C:\projekt_github\aiit-labor-tr-knoll\Lab_04_Bruchrechnung\obj\Debug\Lab_04_Bruchrechnung.exe
+C:\projekt_github\aiit-labor-tr-knoll\Lab_04_Bruchrechnung\obj\Debug\Lab_04_Bruchrechnung.pdb
