@@ -1,0 +1,7 @@
+C:\projekt_github\aiit-labor-tr-knoll\Lab05_Rechtecke_zeichnen\bin\Debug\Lab05_Rechtecke_zeichnen.exe.config
+C:\projekt_github\aiit-labor-tr-knoll\Lab05_Rechtecke_zeichnen\bin\Debug\Lab05_Rechtecke_zeichnen.exe
+C:\projekt_github\aiit-labor-tr-knoll\Lab05_Rechtecke_zeichnen\bin\Debug\Lab05_Rechtecke_zeichnen.pdb
+C:\projekt_github\aiit-labor-tr-knoll\Lab05_Rechtecke_zeichnen\obj\Debug\Lab05_Rechtecke_zeichnen.csproj.AssemblyReference.cache
+C:\projekt_github\aiit-labor-tr-knoll\Lab05_Rechtecke_zeichnen\obj\Debug\Lab05_Rechtecke_zeichnen.csproj.CoreCompileInputs.cache
+C:\projekt_github\aiit-labor-tr-knoll\Lab05_Rechtecke_zeichnen\obj\Debug\Lab05_Rechtecke_zeichnen.exe
+C:\projekt_github\aiit-labor-tr-knoll\Lab05_Rechtecke_zeichnen\obj\Debug\Lab05_Rechtecke_zeichnen.pdb
