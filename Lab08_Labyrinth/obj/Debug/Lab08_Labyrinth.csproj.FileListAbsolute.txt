@@ -1,0 +1,14 @@
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\Lab08_Labyrinth.csproj.AssemblyReference.cache
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\MainWindow.baml
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\MainWindow.g.cs
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\App.g.cs
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\Lab08_Labyrinth_MarkupCompile.cache
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\Lab08_Labyrinth.g.resources
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\Lab08_Labyrinth.Properties.Resources.resources
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\Lab08_Labyrinth.csproj.GenerateResource.cache
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\Lab08_Labyrinth.csproj.CoreCompileInputs.cache
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\bin\Debug\Lab08_Labyrinth.exe.config
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\bin\Debug\Lab08_Labyrinth.exe
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\bin\Debug\Lab08_Labyrinth.pdb
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\Lab08_Labyrinth.exe
+C:\projekt_github\aiit-labor-tr-knoll\Lab08_Labyrinth\obj\Debug\Lab08_Labyrinth.pdb
