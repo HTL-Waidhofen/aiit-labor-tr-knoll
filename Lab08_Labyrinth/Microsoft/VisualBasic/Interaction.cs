@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
@@ -133,4 +133,17 @@ namespace Labyrinth
     }
 }
 
+*/
 
+using System;
+
+namespace Microsoft.VisualBasic
+{
+    internal class Interaction
+    {
+        internal static string InputBox(string question, string v)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}
