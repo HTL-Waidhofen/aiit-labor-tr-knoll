@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Reflection.Emit;
 using System.Windows.Controls;
 using System.Windows.Media.Imaging;
 
@@ -31,7 +32,8 @@ namespace Labyrinth
             Shape.Width = 40;
             Shape.Height = 40;
 
-            Shape.Source = new BitmapImage(new Uri(image, UriKind.Relative));
+            Shape.Source = new BitmapImage(new Uri("C:\\projekt_github\\aiit-labor-tr-knoll\\Lab08_Labyrinth\\Properties\\enemy.png"));
+
         }
 
         public void Move(int[,] labyrinth)

@@ -47,7 +47,8 @@ namespace Labyrinth
             Shape.Height = size;
 
             // HIER SPIELERBILD
-            Shape.Source = new BitmapImage(new Uri("player.png", UriKind.Relative));
+           
+            Shape.Source = new BitmapImage(new Uri("C:\\projekt_github\\aiit-labor-tr-knoll\\Lab08_Labyrinth\\Properties\\player.png"));
         }
     }
 }

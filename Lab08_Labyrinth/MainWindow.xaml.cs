@@ -35,14 +35,14 @@ namespace Labyrinth
             };
 
         int cellSize = 40;
-        int viewRadius = 3;
+        int viewRadius = 39999;
 
         Player player;
 
         public MainWindow()
         {
             InitializeComponent();
-
+            
             CreatePlayer();
             DrawGame();
         }
